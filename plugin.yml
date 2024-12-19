@@ -1,0 +1,13 @@
+name: HomeSystem
+version: 1.2.0
+main: HomeSystem\Main
+api: [5.0.0]
+author: Lucas | CraftEngine
+website: https://discord.gg/33PskyeFh3
+permissions:
+  homesystem.command.home:
+    default: true
+  homesystem.command.sethome:
+    default: true
+  homesystem.command.delhome:
+    default: true
